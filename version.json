@@ -1,10 +1,6 @@
 
-version.json
-
-
-
 {
-  "latest": "1.0.1",
-  "bin": "551.bin"
+  "latest": "1.0.2",
+  "bin": "552.bin"
 }
 
